@@ -1,2 +1,2 @@
 CREATE DATABASE Forestal;
-Go
+GO

@@ -63,7 +63,7 @@ CREATE TABLE Concesiones (
 	ZONUTM int,
 	ORIGEN int,
 	TIPCON bigint,
-	CONTRA nvarchar(50) PRIMARY KEY not null,
+	CONTRA nvarchar(100) PRIMARY KEY not null,
 	FECONT datetime2 null,
 	NOMTIT nvarchar(255),
 	NOMREL nvarchar(255) null,
